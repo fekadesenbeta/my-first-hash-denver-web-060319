@@ -1,9 +1,10 @@
 def my_hash 
-   hash = {
+   new_hash = {
     "my_name" => "Fekade", 
     "favorite_food" => "Ethiopian",
     "favorite_sport" => "Baskestball" 
      }
+     return new_hash
 end
 
 
@@ -12,9 +13,7 @@ def shipping_manifest the_manifest = {
   "porcelain_vases" => 2,
   "oil_paintings" => 3
 }
-"my_name" => "Fekade", 
-    "favorite_food" => "Ethiopian",
-    "favorite_sport" => "Baskestball"
+ return shipping_manifest
 end
 
 def retrieval
