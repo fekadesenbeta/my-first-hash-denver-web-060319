@@ -39,6 +39,12 @@ def adding
                  }
                   shipping_manifest["muskets"]= 2, 
                   shipping_manifest["gun powder"] = 4
+                  
+                  
+                  person = {
+  "name" => "Corinna",
+  "age" => 36
+}
           person["hometown"] = "Massena, NY"
 
 end
