@@ -1,6 +1,6 @@
 def my_hash {
-    "my_name" => "Fekade" 
-    "favorite_food" => "Ethiopian"
+    "my_name" => "Fekade", 
+    "favorite_food" => "Ethiopian",
     "favorite_sport" => "Baskestball"
 }
 end
