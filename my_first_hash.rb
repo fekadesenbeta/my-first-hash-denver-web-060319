@@ -1,7 +1,9 @@
-def my_hash hash = {
+def my_hash 
+   hash = {
     "my_name" => "Fekade", 
     "favorite_food" => "Ethiopian",
-    "favorite_sport" => "Baskestball"
+    "favorite_sport" => "Baskestball" 
+    return hash
 }
 end
 
