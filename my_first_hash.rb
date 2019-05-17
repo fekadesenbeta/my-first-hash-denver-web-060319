@@ -1,7 +1,7 @@
 def my_hash {
-    "basketball_players" => "Curry" 
-    "football_players" => "Elway"
-    "tennis_players" => "Williams"
+    "my_name" => "Fekade" 
+    "favorite_food" => "Ethiopian"
+    "favorite_sport" => "Baskestball"
 }
 end
 
